@@ -1,0 +1,1 @@
+let yourArray = ["Slice Of Code", "Daniil Ryabokon", "male", 24, true]; // Change this line
