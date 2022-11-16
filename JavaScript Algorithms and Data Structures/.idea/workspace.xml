@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d4864309-5af0-43b1-901d-088f2506efa8" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../00. Basic JavaScript/01.js" beforeDir="false" afterPath="$PROJECT_DIR$/00. Basic JavaScript/01.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../00. Basic JavaScript/02.js" beforeDir="false" afterPath="$PROJECT_DIR$/00. Basic JavaScript/02.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../00. Basic JavaScript/03.js" beforeDir="false" afterPath="$PROJECT_DIR$/00. Basic JavaScript/03.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../00. Basic JavaScript/04.js" beforeDir="false" afterPath="$PROJECT_DIR$/00. Basic JavaScript/04.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../00. Basic JavaScript/05.js" beforeDir="false" afterPath="$PROJECT_DIR$/00. Basic JavaScript/05.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../00. Basic JavaScript/06.js" beforeDir="false" afterPath="$PROJECT_DIR$/00. Basic JavaScript/06.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../00. Basic JavaScript/07.js" beforeDir="false" afterPath="$PROJECT_DIR$/00. Basic JavaScript/07.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../00. Basic JavaScript/08.js" beforeDir="false" afterPath="$PROJECT_DIR$/00. Basic JavaScript/08.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../00. Basic JavaScript/09.js" beforeDir="false" afterPath="$PROJECT_DIR$/00. Basic JavaScript/09.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../00. Basic JavaScript/10.js" beforeDir="false" afterPath="$PROJECT_DIR$/00. Basic JavaScript/10.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../00. Basic JavaScript/101.js" beforeDir="false" afterPath="$PROJECT_DIR$/00. Basic JavaScript/101.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../00. Basic JavaScript/104.js" beforeDir="false" afterPath="$PROJECT_DIR$/00. Basic JavaScript/104.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../00. Basic JavaScript/105.js" beforeDir="false" afterPath="$PROJECT_DIR$/00. Basic JavaScript/105.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../00. Basic JavaScript/11.js" beforeDir="false" afterPath="$PROJECT_DIR$/00. Basic JavaScript/11.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../00. Basic JavaScript/12.js" beforeDir="false" afterPath="$PROJECT_DIR$/00. Basic JavaScript/12.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../00. Basic JavaScript/13.js" beforeDir="false" afterPath="$PROJECT_DIR$/00. Basic JavaScript/13.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../00. Basic JavaScript/14.js" beforeDir="false" afterPath="$PROJECT_DIR$/00. Basic JavaScript/14.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../00. Basic JavaScript/15.js" beforeDir="false" afterPath="$PROJECT_DIR$/00. Basic JavaScript/15.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../00. Basic JavaScript/16.js" beforeDir="false" afterPath="$PROJECT_DIR$/00. Basic JavaScript/16.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../00. Basic JavaScript/17.js" beforeDir="false" afterPath="$PROJECT_DIR$/00. Basic JavaScript/17.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../00. Basic JavaScript/18.js" beforeDir="false" afterPath="$PROJECT_DIR$/00. Basic JavaScript/18.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../00. Basic JavaScript/19.js" beforeDir="false" afterPath="$PROJECT_DIR$/00. Basic JavaScript/19.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../00. Basic JavaScript/20.js" beforeDir="false" afterPath="$PROJECT_DIR$/00. Basic JavaScript/20.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../00. Basic JavaScript/21.js" beforeDir="false" afterPath="$PROJECT_DIR$/00. Basic JavaScript/21.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../00. Basic JavaScript/22.js" beforeDir="false" afterPath="$PROJECT_DIR$/00. Basic JavaScript/22.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../00. Basic JavaScript/23.js" beforeDir="false" afterPath="$PROJECT_DIR$/00. Basic JavaScript/23.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../00. Basic JavaScript/24.js" beforeDir="false" afterPath="$PROJECT_DIR$/00. Basic JavaScript/24.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../00. Basic JavaScript/25.js" beforeDir="false" afterPath="$PROJECT_DIR$/00. Basic JavaScript/25.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../00. Basic JavaScript/26.js" beforeDir="false" afterPath="$PROJECT_DIR$/00. Basic JavaScript/26.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../00. Basic JavaScript/27.js" beforeDir="false" afterPath="$PROJECT_DIR$/00. Basic JavaScript/27.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../00. Basic JavaScript/28.js" beforeDir="false" afterPath="$PROJECT_DIR$/00. Basic JavaScript/28.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../00. Basic JavaScript/29.js" beforeDir="false" afterPath="$PROJECT_DIR$/00. Basic JavaScript/29.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../00. Basic JavaScript/30.js" beforeDir="false" afterPath="$PROJECT_DIR$/00. Basic JavaScript/30.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../00. Basic JavaScript/31.js" beforeDir="false" afterPath="$PROJECT_DIR$/00. Basic JavaScript/31.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../00. Basic JavaScript/32.js" beforeDir="false" afterPath="$PROJECT_DIR$/00. Basic JavaScript/32.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../00. Basic JavaScript/33.js" beforeDir="false" afterPath="$PROJECT_DIR$/00. Basic JavaScript/33.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../00. Basic JavaScript/34.js" beforeDir="false" afterPath="$PROJECT_DIR$/00. Basic JavaScript/34.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../00. Basic JavaScript/35.js" beforeDir="false" afterPath="$PROJECT_DIR$/00. Basic JavaScript/35.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../00. Basic JavaScript/36.js" beforeDir="false" afterPath="$PROJECT_DIR$/00. Basic JavaScript/36.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../00. Basic JavaScript/37.js" beforeDir="false" afterPath="$PROJECT_DIR$/00. Basic JavaScript/37.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../00. Basic JavaScript/38.js" beforeDir="false" afterPath="$PROJECT_DIR$/00. Basic JavaScript/38.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../00. Basic JavaScript/39.js" beforeDir="false" afterPath="$PROJECT_DIR$/00. Basic JavaScript/39.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../00. Basic JavaScript/40.js" beforeDir="false" afterPath="$PROJECT_DIR$/00. Basic JavaScript/40.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../00. Basic JavaScript/41.js" beforeDir="false" afterPath="$PROJECT_DIR$/00. Basic JavaScript/41.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../00. Basic JavaScript/42.js" beforeDir="false" afterPath="$PROJECT_DIR$/00. Basic JavaScript/42.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../00. Basic JavaScript/43.js" beforeDir="false" afterPath="$PROJECT_DIR$/00. Basic JavaScript/43.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../00. Basic JavaScript/44.js" beforeDir="false" afterPath="$PROJECT_DIR$/00. Basic JavaScript/44.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../00. Basic JavaScript/45.js" beforeDir="false" afterPath="$PROJECT_DIR$/00. Basic JavaScript/45.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../00. Basic JavaScript/46.js" beforeDir="false" afterPath="$PROJECT_DIR$/00. Basic JavaScript/46.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../00. Basic JavaScript/47.js" beforeDir="false" afterPath="$PROJECT_DIR$/00. Basic JavaScript/47.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../00. Basic JavaScript/48.js" beforeDir="false" afterPath="$PROJECT_DIR$/00. Basic JavaScript/48.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../00. Basic JavaScript/49.js" beforeDir="false" afterPath="$PROJECT_DIR$/00. Basic JavaScript/49.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../00. Basic JavaScript/50.js" beforeDir="false" afterPath="$PROJECT_DIR$/00. Basic JavaScript/50.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../00. Basic JavaScript/51.js" beforeDir="false" afterPath="$PROJECT_DIR$/00. Basic JavaScript/51.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../00. Basic JavaScript/52.js" beforeDir="false" afterPath="$PROJECT_DIR$/00. Basic JavaScript/52.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../00. Basic JavaScript/53.js" beforeDir="false" afterPath="$PROJECT_DIR$/00. Basic JavaScript/53.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../00. Basic JavaScript/54.js" beforeDir="false" afterPath="$PROJECT_DIR$/00. Basic JavaScript/54.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../00. Basic JavaScript/55.js" beforeDir="false" afterPath="$PROJECT_DIR$/00. Basic JavaScript/55.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../00. Basic JavaScript/56.js" beforeDir="false" afterPath="$PROJECT_DIR$/00. Basic JavaScript/56.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../00. Basic JavaScript/57.js" beforeDir="false" afterPath="$PROJECT_DIR$/00. Basic JavaScript/57.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../00. Basic JavaScript/58.js" beforeDir="false" afterPath="$PROJECT_DIR$/00. Basic JavaScript/58.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../00. Basic JavaScript/59.js" beforeDir="false" afterPath="$PROJECT_DIR$/00. Basic JavaScript/59.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../00. Basic JavaScript/60.js" beforeDir="false" afterPath="$PROJECT_DIR$/00. Basic JavaScript/60.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../00. Basic JavaScript/61.js" beforeDir="false" afterPath="$PROJECT_DIR$/00. Basic JavaScript/61.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../00. Basic JavaScript/62.js" beforeDir="false" afterPath="$PROJECT_DIR$/00. Basic JavaScript/62.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../00. Basic JavaScript/63.js" beforeDir="false" afterPath="$PROJECT_DIR$/00. Basic JavaScript/63.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../00. Basic JavaScript/64.js" beforeDir="false" afterPath="$PROJECT_DIR$/00. Basic JavaScript/64.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../00. Basic JavaScript/65.js" beforeDir="false" afterPath="$PROJECT_DIR$/00. Basic JavaScript/65.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../00. Basic JavaScript/66.js" beforeDir="false" afterPath="$PROJECT_DIR$/00. Basic JavaScript/66.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../00. Basic JavaScript/67.js" beforeDir="false" afterPath="$PROJECT_DIR$/00. Basic JavaScript/67.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../00. Basic JavaScript/68.js" beforeDir="false" afterPath="$PROJECT_DIR$/00. Basic JavaScript/68.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../00. Basic JavaScript/69.js" beforeDir="false" afterPath="$PROJECT_DIR$/00. Basic JavaScript/69.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../00. Basic JavaScript/70.js" beforeDir="false" afterPath="$PROJECT_DIR$/00. Basic JavaScript/70.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../00. Basic JavaScript/71.js" beforeDir="false" afterPath="$PROJECT_DIR$/00. Basic JavaScript/71.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../00. Basic JavaScript/72.js" beforeDir="false" afterPath="$PROJECT_DIR$/00. Basic JavaScript/72.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../00. Basic JavaScript/73.js" beforeDir="false" afterPath="$PROJECT_DIR$/00. Basic JavaScript/73.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../00. Basic JavaScript/74.js" beforeDir="false" afterPath="$PROJECT_DIR$/00. Basic JavaScript/74.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../00. Basic JavaScript/75.js" beforeDir="false" afterPath="$PROJECT_DIR$/00. Basic JavaScript/75.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../00. Basic JavaScript/76.js" beforeDir="false" afterPath="$PROJECT_DIR$/00. Basic JavaScript/76.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../00. Basic JavaScript/77.js" beforeDir="false" afterPath="$PROJECT_DIR$/00. Basic JavaScript/77.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../00. Basic JavaScript/78.js" beforeDir="false" afterPath="$PROJECT_DIR$/00. Basic JavaScript/78.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../00. Basic JavaScript/79.js" beforeDir="false" afterPath="$PROJECT_DIR$/00. Basic JavaScript/79.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../00. Basic JavaScript/80.js" beforeDir="false" afterPath="$PROJECT_DIR$/00. Basic JavaScript/80.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../00. Basic JavaScript/81.js" beforeDir="false" afterPath="$PROJECT_DIR$/00. Basic JavaScript/81.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../00. Basic JavaScript/82.js" beforeDir="false" afterPath="$PROJECT_DIR$/00. Basic JavaScript/82.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../00. Basic JavaScript/83.js" beforeDir="false" afterPath="$PROJECT_DIR$/00. Basic JavaScript/83.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../00. Basic JavaScript/84.js" beforeDir="false" afterPath="$PROJECT_DIR$/00. Basic JavaScript/84.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../00. Basic JavaScript/85.js" beforeDir="false" afterPath="$PROJECT_DIR$/00. Basic JavaScript/85.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../00. Basic JavaScript/86.js" beforeDir="false" afterPath="$PROJECT_DIR$/00. Basic JavaScript/86.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../00. Basic JavaScript/87.js" beforeDir="false" afterPath="$PROJECT_DIR$/00. Basic JavaScript/87.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../00. Basic JavaScript/88.js" beforeDir="false" afterPath="$PROJECT_DIR$/00. Basic JavaScript/88.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../00. Basic JavaScript/89.js" beforeDir="false" afterPath="$PROJECT_DIR$/00. Basic JavaScript/89.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../00. Basic JavaScript/91.js" beforeDir="false" afterPath="$PROJECT_DIR$/00. Basic JavaScript/91.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../00. Basic JavaScript/92.js" beforeDir="false" afterPath="$PROJECT_DIR$/00. Basic JavaScript/92.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../00. Basic JavaScript/93.js" beforeDir="false" afterPath="$PROJECT_DIR$/00. Basic JavaScript/93.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../00. Basic JavaScript/95.js" beforeDir="false" afterPath="$PROJECT_DIR$/00. Basic JavaScript/95.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../00. Basic JavaScript/96.js" beforeDir="false" afterPath="$PROJECT_DIR$/00. Basic JavaScript/96.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../00. Basic JavaScript/97.js" beforeDir="false" afterPath="$PROJECT_DIR$/00. Basic JavaScript/97.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../00. Basic JavaScript/98.js" beforeDir="false" afterPath="$PROJECT_DIR$/00. Basic JavaScript/98.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../00. Basic JavaScript/99.js" beforeDir="false" afterPath="$PROJECT_DIR$/00. Basic JavaScript/99.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01. ES6/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/01. ES6/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01. ES6/.idea/ES6.iml" beforeDir="false" afterPath="$PROJECT_DIR$/01. ES6/.idea/ES6.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01. ES6/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/01. ES6/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01. ES6/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/01. ES6/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01. ES6/01.js" beforeDir="false" afterPath="$PROJECT_DIR$/01. ES6/01.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01. ES6/02.js" beforeDir="false" afterPath="$PROJECT_DIR$/01. ES6/02.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01. ES6/03.js" beforeDir="false" afterPath="$PROJECT_DIR$/01. ES6/03.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01. ES6/04.js" beforeDir="false" afterPath="$PROJECT_DIR$/01. ES6/04.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01. ES6/05.js" beforeDir="false" afterPath="$PROJECT_DIR$/01. ES6/05.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01. ES6/06.js" beforeDir="false" afterPath="$PROJECT_DIR$/01. ES6/06.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01. ES6/07.js" beforeDir="false" afterPath="$PROJECT_DIR$/01. ES6/07.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01. ES6/08.js" beforeDir="false" afterPath="$PROJECT_DIR$/01. ES6/08.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01. ES6/09.js" beforeDir="false" afterPath="$PROJECT_DIR$/01. ES6/09.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01. ES6/10.js" beforeDir="false" afterPath="$PROJECT_DIR$/01. ES6/10.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01. ES6/11.js" beforeDir="false" afterPath="$PROJECT_DIR$/01. ES6/11.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01. ES6/12.js" beforeDir="false" afterPath="$PROJECT_DIR$/01. ES6/12.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01. ES6/16.js" beforeDir="false" afterPath="$PROJECT_DIR$/01. ES6/16.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01. ES6/17.js" beforeDir="false" afterPath="$PROJECT_DIR$/01. ES6/17.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01. ES6/20.js" beforeDir="false" afterPath="$PROJECT_DIR$/01. ES6/20.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01. ES6/21.js" beforeDir="false" afterPath="$PROJECT_DIR$/01. ES6/21.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01. ES6/22.js" beforeDir="false" afterPath="$PROJECT_DIR$/01. ES6/22.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01. ES6/23.js" beforeDir="false" afterPath="$PROJECT_DIR$/01. ES6/23.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01. ES6/24.js" beforeDir="false" afterPath="$PROJECT_DIR$/01. ES6/24.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01. ES6/25.js" beforeDir="false" afterPath="$PROJECT_DIR$/01. ES6/25.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01. ES6/26.js" beforeDir="false" afterPath="$PROJECT_DIR$/01. ES6/26.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01. ES6/27.js" beforeDir="false" afterPath="$PROJECT_DIR$/01. ES6/27.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02. Regular Expressions/01.js" beforeDir="false" afterPath="$PROJECT_DIR$/02. Regular Expressions/01.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02. Regular Expressions/02.js" beforeDir="false" afterPath="$PROJECT_DIR$/02. Regular Expressions/02.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02. Regular Expressions/03.js" beforeDir="false" afterPath="$PROJECT_DIR$/02. Regular Expressions/03.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02. Regular Expressions/04.js" beforeDir="false" afterPath="$PROJECT_DIR$/02. Regular Expressions/04.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02. Regular Expressions/05.js" beforeDir="false" afterPath="$PROJECT_DIR$/02. Regular Expressions/05.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02. Regular Expressions/06.js" beforeDir="false" afterPath="$PROJECT_DIR$/02. Regular Expressions/06.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02. Regular Expressions/07.js" beforeDir="false" afterPath="$PROJECT_DIR$/02. Regular Expressions/07.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02. Regular Expressions/10.js" beforeDir="false" afterPath="$PROJECT_DIR$/02. Regular Expressions/10.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02. Regular Expressions/11.js" beforeDir="false" afterPath="$PROJECT_DIR$/02. Regular Expressions/11.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02. Regular Expressions/12.js" beforeDir="false" afterPath="$PROJECT_DIR$/02. Regular Expressions/12.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02. Regular Expressions/13.js" beforeDir="false" afterPath="$PROJECT_DIR$/02. Regular Expressions/13.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02. Regular Expressions/14.js" beforeDir="false" afterPath="$PROJECT_DIR$/02. Regular Expressions/14.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02. Regular Expressions/15.js" beforeDir="false" afterPath="$PROJECT_DIR$/02. Regular Expressions/15.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02. Regular Expressions/16.js" beforeDir="false" afterPath="$PROJECT_DIR$/02. Regular Expressions/16.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02. Regular Expressions/17.js" beforeDir="false" afterPath="$PROJECT_DIR$/02. Regular Expressions/17.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02. Regular Expressions/18.js" beforeDir="false" afterPath="$PROJECT_DIR$/02. Regular Expressions/18.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02. Regular Expressions/19.js" beforeDir="false" afterPath="$PROJECT_DIR$/02. Regular Expressions/19.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02. Regular Expressions/20.js" beforeDir="false" afterPath="$PROJECT_DIR$/02. Regular Expressions/20.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02. Regular Expressions/21.js" beforeDir="false" afterPath="$PROJECT_DIR$/02. Regular Expressions/21.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02. Regular Expressions/22.js" beforeDir="false" afterPath="$PROJECT_DIR$/02. Regular Expressions/22.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02. Regular Expressions/23.js" beforeDir="false" afterPath="$PROJECT_DIR$/02. Regular Expressions/23.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02. Regular Expressions/27.js" beforeDir="false" afterPath="$PROJECT_DIR$/02. Regular Expressions/27.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Debugging/01.js" beforeDir="false" afterPath="$PROJECT_DIR$/03. Debugging/01.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Debugging/02.js" beforeDir="false" afterPath="$PROJECT_DIR$/03. Debugging/02.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Debugging/03.js" beforeDir="false" afterPath="$PROJECT_DIR$/03. Debugging/03.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Debugging/04.js" beforeDir="false" afterPath="$PROJECT_DIR$/03. Debugging/04.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Debugging/06.js" beforeDir="false" afterPath="$PROJECT_DIR$/03. Debugging/06.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Debugging/07.js" beforeDir="false" afterPath="$PROJECT_DIR$/03. Debugging/07.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Debugging/08.js" beforeDir="false" afterPath="$PROJECT_DIR$/03. Debugging/08.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Debugging/09.js" beforeDir="false" afterPath="$PROJECT_DIR$/03. Debugging/09.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Debugging/10.js" beforeDir="false" afterPath="$PROJECT_DIR$/03. Debugging/10.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Debugging/12.js" beforeDir="false" afterPath="$PROJECT_DIR$/03. Debugging/12.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04. Basic Data Structures/01.js" beforeDir="false" afterPath="$PROJECT_DIR$/04. Basic Data Structures/01.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04. Basic Data Structures/02.js" beforeDir="false" afterPath="$PROJECT_DIR$/04. Basic Data Structures/02.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04. Basic Data Structures/03.js" beforeDir="false" afterPath="$PROJECT_DIR$/04. Basic Data Structures/03.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04. Basic Data Structures/04.js" beforeDir="false" afterPath="$PROJECT_DIR$/04. Basic Data Structures/04.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04. Basic Data Structures/05.js" beforeDir="false" afterPath="$PROJECT_DIR$/04. Basic Data Structures/05.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04. Basic Data Structures/06.js" beforeDir="false" afterPath="$PROJECT_DIR$/04. Basic Data Structures/06.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04. Basic Data Structures/07.js" beforeDir="false" afterPath="$PROJECT_DIR$/04. Basic Data Structures/07.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04. Basic Data Structures/09.js" beforeDir="false" afterPath="$PROJECT_DIR$/04. Basic Data Structures/09.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04. Basic Data Structures/13.js" beforeDir="false" afterPath="$PROJECT_DIR$/04. Basic Data Structures/13.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04. Basic Data Structures/14.js" beforeDir="false" afterPath="$PROJECT_DIR$/04. Basic Data Structures/14.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04. Basic Data Structures/16.js" beforeDir="false" afterPath="$PROJECT_DIR$/04. Basic Data Structures/16.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04. Basic Data Structures/19.js" beforeDir="false" afterPath="$PROJECT_DIR$/04. Basic Data Structures/19.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../06. Object Oriented Programming/01.js" beforeDir="false" afterPath="$PROJECT_DIR$/06. Object Oriented Programming/01.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../06. Object Oriented Programming/02.js" beforeDir="false" afterPath="$PROJECT_DIR$/06. Object Oriented Programming/02.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../06. Object Oriented Programming/03.js" beforeDir="false" afterPath="$PROJECT_DIR$/06. Object Oriented Programming/03.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../06. Object Oriented Programming/04.js" beforeDir="false" afterPath="$PROJECT_DIR$/06. Object Oriented Programming/04.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../06. Object Oriented Programming/05.js" beforeDir="false" afterPath="$PROJECT_DIR$/06. Object Oriented Programming/05.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../06. Object Oriented Programming/06.js" beforeDir="false" afterPath="$PROJECT_DIR$/06. Object Oriented Programming/06.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../06. Object Oriented Programming/07.js" beforeDir="false" afterPath="$PROJECT_DIR$/06. Object Oriented Programming/07.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../06. Object Oriented Programming/08.js" beforeDir="false" afterPath="$PROJECT_DIR$/06. Object Oriented Programming/08.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../06. Object Oriented Programming/09.js" beforeDir="false" afterPath="$PROJECT_DIR$/06. Object Oriented Programming/09.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../06. Object Oriented Programming/10.js" beforeDir="false" afterPath="$PROJECT_DIR$/06. Object Oriented Programming/10.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../06. Object Oriented Programming/11.js" beforeDir="false" afterPath="$PROJECT_DIR$/06. Object Oriented Programming/11.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../06. Object Oriented Programming/12.js" beforeDir="false" afterPath="$PROJECT_DIR$/06. Object Oriented Programming/12.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../06. Object Oriented Programming/13.js" beforeDir="false" afterPath="$PROJECT_DIR$/06. Object Oriented Programming/13.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../06. Object Oriented Programming/14.js" beforeDir="false" afterPath="$PROJECT_DIR$/06. Object Oriented Programming/14.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../06. Object Oriented Programming/15.js" beforeDir="false" afterPath="$PROJECT_DIR$/06. Object Oriented Programming/15.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../06. Object Oriented Programming/16.js" beforeDir="false" afterPath="$PROJECT_DIR$/06. Object Oriented Programming/16.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../06. Object Oriented Programming/17.js" beforeDir="false" afterPath="$PROJECT_DIR$/06. Object Oriented Programming/17.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../06. Object Oriented Programming/18.js" beforeDir="false" afterPath="$PROJECT_DIR$/06. Object Oriented Programming/18.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../06. Object Oriented Programming/19.js" beforeDir="false" afterPath="$PROJECT_DIR$/06. Object Oriented Programming/19.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../06. Object Oriented Programming/20.js" beforeDir="false" afterPath="$PROJECT_DIR$/06. Object Oriented Programming/20.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../06. Object Oriented Programming/22.js" beforeDir="false" afterPath="$PROJECT_DIR$/06. Object Oriented Programming/22.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../06. Object Oriented Programming/23.js" beforeDir="false" afterPath="$PROJECT_DIR$/06. Object Oriented Programming/23.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../06. Object Oriented Programming/25.js" beforeDir="false" afterPath="$PROJECT_DIR$/06. Object Oriented Programming/25.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../06. Object Oriented Programming/26.js" beforeDir="false" afterPath="$PROJECT_DIR$/06. Object Oriented Programming/26.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="2HcqxZZRU9t6ywESkGSp9Kx9maD" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d4864309-5af0-43b1-901d-088f2506efa8" name="Changes" comment="" />
+      <created>1668594971451</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1668594971451</updated>
+      <workItem from="1668594973786" duration="579000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
