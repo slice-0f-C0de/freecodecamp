@@ -1,0 +1,6 @@
+#box-container {
+    background: gray;
+    display: flex;
+    height: 500px;
+    align-items: center;
+  }
