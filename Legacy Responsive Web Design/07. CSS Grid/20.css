@@ -1,0 +1,5 @@
+/* Only change code below this line */
+
+grid-template-columns: repeat(auto-fit, minmax(60px, 1fr));
+
+/* Only change code above this line */
